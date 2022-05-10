@@ -1,11 +1,11 @@
 # Presidents and Vice-Presidents of India Dataset (TCPD-PVPD)
 
-The Presidents and Vice-Presidents of India dataset is a list of all Indian Presidents and Vice-Presidents from 1950 to 2022. The users are free to download, display or include the data in other products for non-commercial purposes at no cost subject to the following limitations: 
+The Presidents and Vice-Presidents of India dataset is a list of all Indian Presidents and Vice-Presidents from 1950 to 2021. The users are free to download, display or include the data in other products for non-commercial purposes at no cost subject to the following limitations: 
 
 # Data Citation: 
-“TCPD Presidents and Vice-Presidents of India Dataset (TCPD-PVPD), 1950-current”. Trivedi Centre for Political Data, Ashoka University.
+“TCPD Presidents and Vice-Presidents of India Dataset (TCPD-PVPD), 1950-2021”. Trivedi Centre for Political Data, Ashoka University.
 # Codebook Citation: 
-Neelesh Agrawal, Prachi Arya, Srishti Gupta and Dipanita Malik. 2022. “TCPD Presidents and Vice-Presidents of India Dataset (TCPD-PVPD), 1950-current Codebook", Trivedi Centre for Political Data, Ashoka University.
+Neelesh Agrawal, Prachi Arya, Srishti Gupta and Dipanita Malik. 2022. “TCPD Presidents and Vice-Presidents of India Dataset (TCPD-PVPD), 1950-2021 Codebook", Trivedi Centre for Political Data, Ashoka University.
 # No Endorsement: 
 The user must not claim or imply that the Trivedi Centre for Political Data endorses the user's use of the data or use of the Centre's logo(s) or trademarks(s) in conjunction with the same.
 # No Warranty: 
